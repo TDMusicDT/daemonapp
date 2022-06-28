@@ -1,0 +1,13 @@
+﻿{
+  "versionCode": 1001,
+  "versionName": "1.0.1",
+  "releaseNotes": "daemonapp",
+  "downloads": [
+    {
+      "name": "daemonapp",
+      "url": "http://gate.taicudt.com:30800/autojs/daemonapp.apk"
+    }
+  ],
+  "oldVersions": [],
+  "deprecated": 116
+}
